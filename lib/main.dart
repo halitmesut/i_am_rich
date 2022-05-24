@@ -7,7 +7,7 @@ void main() {
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.yellow,
-          title: const Center(
+          title: Center(
             child: Text("I'am Poor"),
           ),
           foregroundColor: Colors.black,
