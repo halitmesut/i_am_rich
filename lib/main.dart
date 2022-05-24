@@ -6,8 +6,8 @@ void main() {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.yellow,
-          title: Center(
+          backgroundColor: Color.fromARGB(255, 255, 233, 31),
+          title: const Center(
             child: Text("I'am Poor"),
           ),
           foregroundColor: Colors.black,
